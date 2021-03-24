@@ -13,4 +13,4 @@
 *Пример:*
 > **git commit -m «init»**
 
-[НАЗАД](./README.MD)
+[НАЗАД](./README.md)

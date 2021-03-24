@@ -6,5 +6,5 @@
 
 > **git add**
 
-[НАЗАД](./README.MD)
+[НАЗАД](./README.md)
 
