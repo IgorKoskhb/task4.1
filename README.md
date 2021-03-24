@@ -2,7 +2,8 @@
 
 LICENSE : [MIT](./LICENSE.MD)
 
-![Логотип программы](./assets/1024px-git-logo.svg.png)
+![Логотип программы](./assets/kruto.png)
+
 
 ---
 
