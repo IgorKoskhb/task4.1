@@ -2,12 +2,14 @@
 
 LICENSE : [MIT](./LICENSE.MD)
 
-![Логотип программы](./assets/kruto.png)
+![Логотип программы](./assets/512px-Git-logo.svg.png)
+
 
 
 ---
 
-### **Соддержание:**
+### <strong>Соддержание:</strong>
+
 1. [*Как используется команда git add*](./add.md)
 2. [*Как используется команда git commit*](./commit.md)
 3. [*Как используется команда git clone*](./clone.md)
