@@ -10,14 +10,15 @@ LICENSE : [MIT](./LICENSE.MD)
 
 ### <strong>Соддержание:</strong>
 
-1. [*Как используется команда git add*](./add.md)
-2. [*Как используется команда git commit*](./commit.md)
-3. [*Как используется команда git clone*](./clone.md)
-4. 
-5. 
-6. 
+1. [*Что такое git config*](./config.md)
+2. [*Как используется команда git init*](./init.md)
+3. [*Как используется команда git add*](./add.md)
+4. [*Как используется команда git commit*](./commit.md)
+5. [*Как используется команда git clone*](./clone.md)
+ 
 
 
+ 
 
 
 
