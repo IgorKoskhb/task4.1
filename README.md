@@ -1,19 +1,38 @@
-# **Инструкция по работе в GIT**
+# <p align="center"> **Инструкция по работе в GIT**
 
-LICENSE : [MIT](./LICENSE.MD)
+LICENSE : [MIT](./LICENSE.md)
 
-![Логотип программы](./assets/512px-Git-logo.svg.png)
+![Логотип программы](./ASSETS/kruto.png)
 
+
+
+
+----
+<font color="greeen">
+
+>## **Всё о Git:**
+
+</font>
+
+1. [*Что такое Git Hub*](./whatisgit.md)
+
+2. [*Как зарегистрироваться на Git Hub*](./registr.md)
+
+3. [*Как создать свой проект на Git Hub*](./newproject.md)
 
 
 ---
-
-### <strong>Соддержание:</strong>
+### 
+><font color="greeen">**Основные команды Git:**</font>
 
 1. [*Что такое git config*](./config.md)
+
 2. [*Как используется команда git init*](./init.md)
+
 3. [*Как используется команда git add*](./add.md)
+
 4. [*Как используется команда git commit*](./commit.md)
+
 5. [*Как используется команда git clone*](./clone.md)
  
 
